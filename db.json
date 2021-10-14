@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This post is edited using the react admin edit mode",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Five",
+      "body": "This is the post created from Postman",
+      "publishedAt": "2021-10-14",
+      "id": "F98gQSq"
+    },
+    {
+      "title": "Post three",
+      "body": "This is the post 3 created from Postman",
+      "publishedAt": "2021-10-14",
+      "id": "bwLeigG"
+    },
+    {
+      "publishedAt": "2021-10-14",
+      "title": "Created Post",
+      "body": "This post is created from React Admin Create component",
+      "id": "h5liUJp"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john@example.com"
+    }
+  ]
+}
